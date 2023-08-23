@@ -1,2 +1,2 @@
 # grafos
-Esboço para um projeto de extensão universitária
+Esboço para um projeto de extensão universitária.
